@@ -15,7 +15,7 @@ Sou Leonardo Garcia :grinning: Desenvolvedor BackEnd Jr :computer:
 ### Só um pouquinho sobre a pessoa que vos fala
 
 Adoro bichinhos :blush:<br> 
-Os doguinhos na capa do perfil é meu bb Thorin :dog: e o outro bb muuito fofo é o Thor :dog2:<br>
+O doguinho na capa é meu bb Thorin :dog: e o outro bb muuito fofo é o Thor :dog2:<br>
 Entusiasta em Data Science :bar_chart:<br>
 Estou iniciando meus estudos em IOT e I.A :robot:<br>
 
