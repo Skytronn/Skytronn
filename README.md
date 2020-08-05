@@ -10,9 +10,7 @@ Sou Leonardo Garcia :grinning: Desenvolvedor BackEnd Jr :computer:
 
 ### Que tal conhecer meu LinkedIn?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LeonardoGarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-gsouza)](https://www.linkedin.com/in/leonardo-gsouza) :newspaper: [![Linkedin Badge](https://img.shields.io/badge/-LarissaAzevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-santos-de-azevedo-65bb6a171)](https://www.linkedin.com/in/larissa-santos-de-azevedo-65bb6a171)
-
-[![Gmail Badge](https://img.shields.io/badge/-leonardogarciasou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardogarciasouo@gmail.com)](mailto:leonardogarciasou@gmail.com) :e-mail:
+[![Linkedin Badge](https://img.shields.io/badge/-LeonardoGarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-gsouza)](https://www.linkedin.com/in/leonardo-gsouza) :newspaper:[![Gmail Badge](https://img.shields.io/badge/-leonardogarciasou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardogarciasouo@gmail.com)](mailto:leonardogarciasou@gmail.com) :e-mail:
 
 ### Só um pouquinho sobre a pessoa que vos fala
 
